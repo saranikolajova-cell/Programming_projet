@@ -19,9 +19,7 @@ Ce script Python permet d'analyser vos données d'écoute musicale à partir de 
 
 ## Exemple de Rapport
 ----------------------------------------------
-🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧
- REPORT FOR: StreamingHistory_music_1.json
-🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧
+REPORT FOR: StreamingHistory_music_1.json
 Total songs analyzed: 1245
 Your peak listening hour is: 18:00
 Top artist during that hour: Daft Punk
