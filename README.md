@@ -1,14 +1,14 @@
-# 🎧 Music Listening Habits Analyzer
+# Music Listening Habits Analyzer
 
 Ce script Python permet d'analyser vos données d'écoute musicale à partir de fichiers JSON (exportation de l'historique de streaming). Il traite les données pour extraire des statistiques sur vos habitudes de d'écoute.
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 * **Nettoyage automatique** : Filtre les musiques passées (0 ms).
 * **Analyse de pointe** : Identifie l'heure de la journée où vous écoutez le plus de musique.
 * **Top Artiste** : Détermine votre artiste préféré durant votre heure de pointe.
 * **Répartition complète** : Affiche le volume d'écoute pour chaque heure de la journée.
 
-## 🚀 Installation et Utilisation
+## Installation et Utilisation
 1. Installez la bibliothèque Pandas :
    pip install pandas
 
@@ -17,7 +17,7 @@ Ce script Python permet d'analyser vos données d'écoute musicale à partir de 
 3. Lancez le script :
    python nom_du_script.py
 
-## 📊 Exemple de Rapport
+## Exemple de Rapport
 ----------------------------------------------
 🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧🎧
  REPORT FOR: StreamingHistory_music_1.json
@@ -31,7 +31,7 @@ LISTENING VOLUME BY HOUR:
 18    245
 ------------------------------
 
-## 📂 Structure
+## Structure
 * script.py : Le code d'analyse.
 * README.md : Documentation.
 
