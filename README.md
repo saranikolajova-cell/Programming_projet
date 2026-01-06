@@ -1,6 +1,6 @@
 # Music Listening Habits Analyzer
 
-Ce script Python permet d'analyser vos données d'écoute musicale à partir de fichiers JSON (exportation de l'historique de streaming). Il traite les données pour extraire des statistiques sur vos habitudes de d'écoute.
+Ce script Python permet d'analyser vos données d'écoute musicale à partir de fichiers JSON (exportation de l'historique de streaming). Il traite les données pour extraire des statistiques sur vos habitudes d'écoute.
 
 ## Fonctionnalités
 * **Nettoyage automatique** : Filtre les musiques passées (0 ms).
