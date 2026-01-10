@@ -6,12 +6,12 @@ Ce projet a été réalisé dans le cadre d'un travail académique visant à cr�
 **Problématique :** *Comment mon activité sur Spotify révèle-t-elle mes habitudes d'écoute et mes artistes préférés tout au long de la journée ?*
 
 **Structure de données**
- *{
+ * {
     "endTime" : "AAAA-MM-JJ HH:MM",
     "artistName" : "Nom d'artiste",
     "trackName" : "Titre",
     "msPlayed" : ssss
-  }*
+  }
 ---
 
 ## Fonctionnalités
